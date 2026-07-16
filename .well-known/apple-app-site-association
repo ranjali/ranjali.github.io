@@ -1,0 +1,22 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "LMY4YJ949Q.com.thalesgroup.gemalto.d1.demo"
+                ],
+                "components": [
+                    {
+                        "/": "/*",
+                        "comment": "Matches any URL"
+                    }
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "LMY4YJ949Q.com.thalesgroup.gemalto.d1.demo"
+        ]
+    }
+}
